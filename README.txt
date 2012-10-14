@@ -1,1 +1,1 @@
-GitHub ForWindowns のテストで作ったレポジトリーです。
+GitHub For Windowns のテストで作ったレポジトリーです。
