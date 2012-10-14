@@ -1,1 +1,0 @@
-GitHub ForWindowns のテストで作ったレポジトリーです。
